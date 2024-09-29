@@ -1,2 +1,2 @@
 # geometric-calculation-toolkit-python
-A suite of geometric calculation tools that includes batch operations.
+Welt, a library for Computational Geometry that includes batch operations.
