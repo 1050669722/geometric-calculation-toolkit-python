@@ -20,5 +20,5 @@ setup(
     description="A Library for Computational Geometry",
     author="liu",
     packages=find_packages(),
-    install_requires=["numpy", "more_itertools", "sklearn"],
+    install_requires=["numpy", "more_itertools", "scikit-learn"],
 )

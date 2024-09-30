@@ -295,6 +295,6 @@ if __name__ == '__main__':
 
     point = [2.0, 3.0]
     vec = np.array([0, 1])
-    resVec = generateVectorFromPointAndDirection(point, vec)
+    resVec = Vector.generateVectorFromPointAndDirection(point, vec)
 
     pass
